@@ -2,6 +2,15 @@
 
 **Brevolka: your road, logged.** 🛣️
 
+[![Latest Release](https://img.shields.io/github/v/release/varundeva/brevolka?style=flat-square&logo=github&label=release&color=3DDC84)](https://github.com/varundeva/brevolka/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/varundeva/brevolka/total?style=flat-square&logo=github&label=downloads&color=blue)](https://github.com/varundeva/brevolka/releases)
+[![Platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-lightgrey?style=flat-square&logo=windowsterminal&logoColor=white)](https://brevolka.com)
+[![Offline First](https://img.shields.io/badge/offline-first-success?style=flat-square&logo=wifi-off&logoColor=white)](#-private-by-design)
+[![No Tracking](https://img.shields.io/badge/tracking-none-critical?style=flat-square&logo=eyeoff&logoColor=white)](#-private-by-design)
+[![No Account](https://img.shields.io/badge/account-not%20required-informational?style=flat-square&logo=letsencrypt&logoColor=white)](#-private-by-design)
+[![Website](https://img.shields.io/badge/website-brevolka.com-orange?style=flat-square&logo=googlechrome&logoColor=white)](https://brevolka.com)
+[![Support](https://img.shields.io/badge/support-email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:support@brevolka.com)
+
 Brevolka is a simple fuel log, mileage tracker and vehicle expense manager. Add a fill-up in seconds, see your real mileage and cost per km, and keep everything private on your phone.
 
 🔒 **NO ACCOUNT. NO INTERNET. NO TRACKING.**
@@ -9,9 +18,11 @@ Open the app and start. It works fully offline and your data stays on your devic
 
 ## 📥 Download Brevolka
 
-[![Download Android APK](https://img.shields.io/badge/Android-Download%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Download Android APK](https://img.shields.io/badge/Android-Download%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/varundeva/brevolka/releases/download/v1.0.0/brevolka-latest.apk)
 [![Get it on PhonePe Indus Appstore](https://img.shields.io/badge/PhonePe-Indus%20Appstore-5F259F?style=for-the-badge&logo=phonepe&logoColor=white)](https://indusapp.store/0h6tzu6c)
-[![Download on the App Store](https://img.shields.io/badge/Apple-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
+[![Join iOS Beta on TestFlight](https://img.shields.io/badge/iOS-Join%20Beta%20on%20TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/5pm2xP3a)
+
+> 📱 **iOS:** Brevolka is in public beta. Install [TestFlight](https://apps.apple.com/app/testflight/id899247664), then tap the badge above to join.
 
 🌐 **Website:** [brevolka.com](https://brevolka.com) for full details, FAQs and updates.
 
@@ -41,10 +52,10 @@ Export your records and keep a backup file you control.
 
 ## ⚡ Built for real life
 
-- 👍 Large buttons for one-thumb use
-- ⏱️ Fast entry: last odometer reading and fuel type are pre-filled
-- 🌙 Clean design with light and dark mode
-- 📴 Works anywhere, even with no signal
+* 👍 Large buttons for one-thumb use
+* ⏱️ Fast entry: last odometer reading and fuel type are pre-filled
+* 🌙 Clean design with light and dark mode
+* 📴 Works anywhere, even with no signal
 
 ## 🔐 Private by design
 
